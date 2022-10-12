@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Halley Pham
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Data Analytic BootCamp at Monash University after completed Cert IV in Cyber Security.
+- 🌱 I’m currently taking BootCamp Data Analytics course at Monash University after completed Cert IV in Cyber Security.
 - 💞️ I’m looking for a job in Data Analysis
 - 📫 You can reach me at https://www.linkedin.com/in/halley-pham-83425590/ 
 
