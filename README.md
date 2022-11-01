@@ -50,6 +50,7 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
     
 </div>
 <div>
+  
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alphaomegainfinity&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
@@ -58,8 +59,6 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaomegainfinity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 </div> 
----
-
 
 <!---
 Alphaomegainfinity/Alphaomegainfinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
