@@ -2,7 +2,10 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently taking BootCamp Data Analytics course at Monash University after completed Cert IV in Cyber Security.
 - 💞️ I’m looking for a job in Data Analysis
-- 📫 You can reach me at https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge: https://www.linkedin.com/in/halley-pham-83425590/ 
+- 📫 You can reach me at <div id="badges">
+  <a href="your-linkedin-URL"](https://www.linkedin.com/in/halley-pham-83425590>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
 
 <!---
 Alphaomegainfinity/Alphaomegainfinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
