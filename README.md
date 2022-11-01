@@ -11,7 +11,7 @@
   </div>
   <div><img src="https://komarev.com/ghpvc/?username=Alphaomegainfinity&style=flat-square&color=blue" alt=""/></div>
  <div align="center"> 
-<iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
 </div>
 
 <div align="center">
@@ -47,14 +47,24 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQL Alchemy" alt="SQL Alchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40"/>&nbsp;
-  
-  
+    
 </div>
+<div>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alphaomegainfinity&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+### :fire: My Stats :
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaomegainfinity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div> 
 ---
+
+
 <!---
 Alphaomegainfinity/Alphaomegainfinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-📈 GitHub Stats
+
 
