@@ -5,6 +5,7 @@
 - 📫 You can reach me at <div id="badges">
   <a href="https://www.linkedin.com/in/halley-pham-83425590">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Alphaomegainfinity&style=flat-square&color=blue" alt=""/>
   </a>  
 </div>
 <!---
