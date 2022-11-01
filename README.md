@@ -11,7 +11,7 @@
   </div>
   <div><img src="https://komarev.com/ghpvc/?username=Alphaomegainfinity&style=flat-square&color=blue" alt=""/></div>
  <div align="center"> 
-<p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0"></a></p>
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 <div>
   
 ### :fire: My Stats :
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alphaomegainfinity&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
   
