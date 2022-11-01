@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Halley Pham. Thanks for visitng my page.
 </h1>
-- 👀 I’m currently studying the Data Analytics and Visualization boot camp at Monash Univierty after completed Cert IV in Cyber Security at Holmesglen Institution at Chadstone campus.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/halley-pham-83425590">
@@ -20,6 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
+I’m currently studying the Data Analytics and Visualization boot camp at Monash Univierty after completed Cert IV in Cyber Security at Holmesglen Institution at Chadstone campus.
 
 :telescope: I am looking for Data Analysis position <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
