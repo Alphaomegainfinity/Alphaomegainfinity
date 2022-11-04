@@ -5,7 +5,7 @@
 </h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/halley-pham-83425590">
+  <a href="https://www.linkedin.com/in/halley-pham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
   </a>  
   </div>
@@ -27,7 +27,7 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 
 :zap: In my free time, I try to look for some open data source to build some models as per my hobbies.
 
-:mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-HalleyPham-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/halley-pham-83425590")
+:mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-HalleyPham-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/halley-pham")
 
 ---
 
