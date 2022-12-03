@@ -59,7 +59,8 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaomegainfinity&layout=compact&theme=vision-friendly-dark)]
- (https://github.com/Alphaomegainfinity)
+(https://github.com/Alphaomegainfinity) 
+  
 </div> 
 
 <!---
