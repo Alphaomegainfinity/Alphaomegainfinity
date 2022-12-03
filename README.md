@@ -52,6 +52,10 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 <div>
   
 ### :fire: My Stats :
+  
+[![Halley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alphaomegainfinity)](https://github.com/Alphaomegainfinity/github-readme-stats)
+  
+![Halley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alphaomegainfinity&show_icons=true&theme=radical)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alphaomegainfinity&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
