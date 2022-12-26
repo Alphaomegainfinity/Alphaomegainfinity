@@ -32,7 +32,7 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 ---
 
 ### :hammer_and_wrench: Visualisation:
-![plot](image/6874.png)
+![plot](image/6874.png) ("[https://public.tableau.com/app/profile/halley8569]")
 =======
 
 ### :hammer_and_wrench: Languages and Tools :
