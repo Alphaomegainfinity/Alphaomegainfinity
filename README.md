@@ -23,7 +23,7 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 
 :telescope: I am looking for Data Analysis position <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:seedling: Although I don't have real working experience, I have completed most of the homework challenges from the Bootcamp course and got a high score for each challenge that you can find them in my repositories.
+:seedling: To see more about my projects, feel free to go to my repositories.
 
 :zap: In my free time, I try to look for some open data source to build some models as per my hobbies.
 
@@ -32,7 +32,11 @@ I’m currently studying the Data Analytics and Visualization boot camp at Monas
 ---
 
 ### :hammer_and_wrench: Visualisation:
+<<<<<<< HEAD
 ![plot](image/6874.png)
+=======
+![plot](image/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67.png, width="40" height="40")
+>>>>>>> 576abedb0feb96678e155b4fb7e92bcc485795ce
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
