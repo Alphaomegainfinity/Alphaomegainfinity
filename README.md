@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I graduated the Data Analytics and Visualization boot camp at Monash Univierty after completed Cert IV in Cyber Security at Holmesglen Institution at Chadstone campus.
+I am a multidisciplinary and motivated Data Analyst with a passion for simplifying large data into comprehensible stories. Skilled in both independent work and team collaboration across various functions, I excel at analyzing information from diverse sources and presenting complex concepts in easily understandable terms to a variety of audiences. I have intermediate problem-solving abilities.
 
 :telescope: I am looking for Data Analysis, Data Modeller, Data Visualisation, Data Engineer position <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
